@@ -1,0 +1,12 @@
+{
+    "name": "DogLibre",
+    "symbol": "DOGL",
+    "description": "DogLibre is a meme with a mission seeking to help human’s best friends through creative mechanisms. Even Pepe wants to help out.",
+    "image": "https://raw.githubusercontent.com/ambient-global/token-metadata/dogl/doglibre_logo.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
